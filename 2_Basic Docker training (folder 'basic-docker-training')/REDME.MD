@@ -35,4 +35,3 @@ bo mam windowsa)
 31. curl localhost ![](images/img_30.png)
 32. docker network ls![](images/img_31.png)
 33. docker podgląd sieci ![](images/img_32.png)
-34. 
