@@ -4,3 +4,9 @@
 
 ![](images/img_1.png)
 
+# Sekcja 2 
+
+
+
+
+

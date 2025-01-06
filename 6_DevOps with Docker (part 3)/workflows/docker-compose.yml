@@ -4,7 +4,7 @@ services:
   watchtower:
     image: containrrr/watchtower
     environment:
-      - WATCHTOWER_POLL_INTERVAL=60 # Sprawdzaj co 60 sekund
+      - WATCHTOWER_POLL_INTERVAL=60 # Poll every 60 sekund
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
     container_name: watchtower
