@@ -7,6 +7,13 @@
 # Sekcja 2 
 
 
+![](images/img_2.png)
 
+![](images/img_3.png)
 
+![](images/img_4.png)
+
+![](images/img_5.png)
+
+![](images/img_6.png)
 
